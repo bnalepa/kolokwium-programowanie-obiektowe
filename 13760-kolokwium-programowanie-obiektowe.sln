@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13760-kolokwium-programowanie-obiektowe", "13760-kolokwium-programowanie-obiektowe\13760-kolokwium-programowanie-obiektowe.csproj", "{ABB3322C-94D0-49F0-9698-30417FBBE095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kolos - zad 3", "kolos - zad 3\kolos - zad 3.csproj", "{894907BB-573C-4166-A993-BB77E7E1A918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB3322C-94D0-49F0-9698-30417FBBE095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB3322C-94D0-49F0-9698-30417FBBE095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB3322C-94D0-49F0-9698-30417FBBE095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB3322C-94D0-49F0-9698-30417FBBE095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894907BB-573C-4166-A993-BB77E7E1A918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894907BB-573C-4166-A993-BB77E7E1A918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894907BB-573C-4166-A993-BB77E7E1A918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894907BB-573C-4166-A993-BB77E7E1A918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {865D5535-5B93-4B68-B0B8-C44CFEB4EE29}
+	EndGlobalSection
+EndGlobal
